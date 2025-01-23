@@ -17,6 +17,6 @@ This repository will be holding all of my school assignments and school related 
   [Google](www.google.com) Google is great website 
   that can have a lot of answers to your questions.
   [Youtube](www.Yoututbe.com) Youtube is another great
-  websites thats has millions of videos for entertainment or learning 
+  websites that has millions of videos for entertainment or learning 
   purposes.
 
